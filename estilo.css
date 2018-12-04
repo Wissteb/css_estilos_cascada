@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* Autor: Wissal Tebai
+   Fecha: 4 de noviembre de 2018
+*/
+body{
+    background-color: rgb(208, 211, 23);
+}
+
+     p{
+        border-top: blue 3px solid;
+        border-bottom: blue 3px solid; 
+        background-color: rgb(108, 141, 163);
+        color: black;
+     }
+
+     p.medio{
+        border-top: red 3px solid;
+        border-bottom: red 3px solid; 
+        background-color: red;
+        color: black;
+     }
